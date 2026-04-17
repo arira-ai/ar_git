@@ -140,7 +140,8 @@ cd ar_git_github
 ```
 
 2. Follow folders in numeric order
-3. Practice every lab locally using Git Bash or terminal
+3. Practice every lab locally using Git Bash or terminal.
+4. Maintatin own cheatsheet of git to learn cmds.
 
 ---
 
